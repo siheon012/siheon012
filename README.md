@@ -39,7 +39,7 @@
 > - **Lakehouse** | 데이터 규모 미확정에 대비해 `Apache Iceberg` + `Polaris` 구조 병행
 > - **Pipeline** | 적재부터 학습 자동화까지 전 구간 `Dagster` 오케스트레이션
 > - **Multi-Agent** | 역할 분리 · 라우팅 · 상태 관리 · 실패 복구 설계, `Phoenix` 로 span · trace 축적
-> - **Infra** | `Kubernetes` 배포 · `Prometheus` + `Grafana` 관측
+  > - **Infra** | `Kubernetes` 배포 · `Prometheus` + `Grafana` +`Phoenix` 관측
 
 <br/>
 
